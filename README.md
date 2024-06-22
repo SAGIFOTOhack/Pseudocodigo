@@ -1,2 +1,2 @@
 # Pseudocodigo
-Ejercicios de Pseudocodigo woman in tech
+Practica de pseudocodigos en Woman in tech 
