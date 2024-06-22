@@ -1,0 +1,4 @@
+Algoritmo PARoNO
+	i
+	
+FinAlgoritmo
